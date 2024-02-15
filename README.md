@@ -4,11 +4,11 @@ MMED-1054 Midterm
 
 # Physical book vs E-Book Debate
 
-We are going to argue about whether Phisical book or E-book are better.
+We are going to argue about whether Physical book or E-book are better. I am sure that the physical book is better and traditional.
 
 ## Installation
 
-TODO: Describe the installation process
+TODO: Describe the installation process of it.
 
 ## Usage
 
