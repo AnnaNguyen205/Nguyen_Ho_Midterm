@@ -2,8 +2,6 @@
 MMED-1054 Midterm
 ![Physical book vs E-Book](images/eBooksvsBooks.jpeg)
 
-# Physical book vs E-Book Debate
-
 We are going to argue about whether Physical book or E-book are better. I am sure that the physical book is better and traditional.
 
 ## Installation
@@ -34,3 +32,6 @@ Nguyen_Thi Thanh Thuong, Ho_Gia Khang
 
 MIT
 
+# Physical book vs E-Book Debate
+
+We are going to argue about whether Physical book or E-book are better.
