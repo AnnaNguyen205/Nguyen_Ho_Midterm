@@ -6,15 +6,15 @@ MMED-1054 Midterm
 
 ## Installation
 
-TODO: Describe the installation process
+TODO: Describe the installation/something else needed process
 
 ## Usage
 
-TODO: Write usage instructions
+TODO: Write usage in clear instructions
 
-## Contributing
+## Contributing to our life
 
-1. Fork it!
+1. Fork it!!?!?!??!
 2. Create your feature branch: `git checkout -b my-new-feature`
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
